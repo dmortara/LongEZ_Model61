@@ -29,3 +29,17 @@ I did a second 6 BID layup trying to get it a bit more light this time (Building
 This trimmed 10x16" composite rectangle for the second test weighted 317±1 g (11.18 oz) which is 1.02 % heavier than the ideal weight of 312 g (11 oz) but still in the expected range of [298, 354] g ([10.5, 12.5] oz)
 
 The finished width of the second 6 BID test rectangle is 1.86±0.02 mm or 0.0732±0.0007 in . This is 0.31 mm per ply or 0.0122±0.001 in. The expected width of a BID ply is 0.013 in per ply or 0.078 in for 6 plies
+
+
+## Units of things
+
+Not that any pilot would be scared with mixing units :-) Here in New Zealand aircraft goes with speed in Knots, altitudes in feet, Atmospheric pressure in hPa (Hecto Pascals), distance in nm and the length of the runways in meters.
+
+
+| magnitude   |  metric |  imperial |
+|-------------|---------|-----------|
+| length      | 0.3048 m |  1 foot  |
+| length      | 0.0254 m |  1 inch  |
+| mass        | 28.3495 gr | 1 oz |
+| Volume      | 3.78541 l | 1 US gal |
+| Volume      | 4.54609 l | 1 Imp gal |
