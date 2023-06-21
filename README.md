@@ -38,9 +38,11 @@ __And a third!__
 
 The tirmmed 10x16" rectangle weights 300±1 g (10.58 oz) which is in the lower marging of the interval or 3.84% lighter thant the ideal average.
 
+__In the the third practice layout I did more squeegeeing that before__ Not a lot of pressure, but many more passes to remove the excess resin. Again, __ADR246TG__ wets the cloth with no efford. Just a little bit of stubbing with the brush and most of the time squeegeeing and queegeeing.
+
 **The three test for the 10x16" 6 BID layup**:
 
->NOTE: **mean** is the average from Chapter 3 range 
+>NOTE: **mean** below is the average from Chapter 3 range 
 
 | Test     |  weight (gr) |  weight (oz) | width (mm) | width (in)   | width ply (mm) | width ply (in) |
 |----------|------------  |--------------|------------|--------------|----------------|----------------|
