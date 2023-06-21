@@ -36,9 +36,9 @@ The finished width of the second 6 BID test rectangle is 1.86±0.02 mm or 0.0732
 
 __And a third!__
 
-The tirmmed 10x16" rectangle weights 300±1 g (10.58 oz) which is in the lower marging of the interval or 3.84% lighter thant the ideal average.
+The trimmed 10x16" rectangle weights 300±1 g (10.58 oz) which is in the lower margin of the interval or 3.84% lighter than the ideal average.
 
-__In the the third practice layout I did more squeegeeing that before__ Not a lot of pressure, but many more passes to remove the excess resin. Again, __ADR246TG__ wets the cloth with no efford. Just a little bit of stubbing with the brush and most of the time squeegeeing and queegeeing.
+__In the third practice layout I did more squeegeeing that before__ Not a lot of pressure, but many more passes to remove the excess resin. Again, __ADR246TG__ wets the cloth with no effort. Just a little bit of stabbing with the brush and most of the time squeegeeing and squeegeeing.
 
 **The three test for the 10x16" 6 BID layup**:
 
